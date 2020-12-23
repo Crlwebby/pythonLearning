@@ -1,5 +1,9 @@
 ## Python - 100天从新手到大师
 
+//这里是crlwebby，这个项目很好，但是对我来说太多了，我只需要了解python基础语法，方便进行自动化测试即可，因此自己在尝试不断裁剪这个项目。原项目地址：[Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
+魔改就完事儿了！
+
 Python在以下领域都有用武之地。
 
  - 后端开发 - Python / Java / Go / PHP
@@ -561,9 +565,3 @@ Python在以下领域都有用武之地。
 4. 静态资源访问优化
    - 云存储
    - CDN
-
-
-
-//这里是crlwebby，这个项目很好，但是对我来说太多了，我只需要了解python基础语法，方便进行自动化测试即可，因此自己在尝试不断裁剪这个项目。原项目地址：[Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-
-魔改就完事儿了！
