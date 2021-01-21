@@ -1,4 +1,4 @@
-#import this develop-eggs from python the zen of python
+#import this    #develop-eggs from python the zen of python
 print('hello world!');
 # single line annotation
 string = "hello cby";
@@ -9,3 +9,8 @@ print("%d ** %d = %d" %(2, 10, 2 ** 10));# ** is an exponential operator
 
 example
 '''
+
+print(2 + 6)
+print(10 - 2)
+print(2 * 4)
+print(int(16 / 2))
